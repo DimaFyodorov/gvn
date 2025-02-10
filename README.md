@@ -2,7 +2,7 @@
 It is a simple language for describing vector graphics.
 
 ## History
-GVN is a small implementation of instructions from a [computer science for grade 10](https://informika-e.ru/S2/10_SEMAKIN.pdf)(p.209) textbook written by me for fun while I was sick.
+GVN is a small implementation of instructions from a computer science for grade 10 textbook written by me for fun while I was sick.
 This pseudo language is used in as many as 2.5 tasks, in the first one you need to write it down in this language from an image (although I don't know how, since the dimensions are not given), and in the second one you need to build a picture from commands, as I suppose manually, but I had a lot of free time while I was sick, so I wrote an implementation of these instructions for fun. Moreover, since I am not one of those who requires a certificate from those who want to write in this (Hello 1C), there is support not only for Russian, but also for English for writing commands)))
 Honestly, I don't know why you might need this thing, but below is described how to run it, what are the capabilities and limitations.
 
