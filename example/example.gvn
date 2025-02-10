@@ -1,0 +1,9 @@
+Set 21 4
+Set_Draw_Color #123242
+Ellipse 54 7 78 23 
+Line_to 12 34
+Circle 35 54 67
+Rectangle 12 23 15 65
+Fill 12 43 blue
+#Чё-то-там 656 76 787
+Save img.png
